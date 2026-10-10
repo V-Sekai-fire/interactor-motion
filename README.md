@@ -22,4 +22,4 @@ There is nothing to build.
 
 ## Licence
 
-The licence is not stated.
+MIT. See [LICENSE](LICENSE).
